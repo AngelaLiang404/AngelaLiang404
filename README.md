@@ -3,7 +3,7 @@
 🌱 I’m currently learning Java, C and C++.
 📫 How to reach me my email: angliang404@gmail.com
 😄 Pronouns: She/Her
-⚡ Fun fact: I have so much fun learning coding.
+⚡ Fun fact: I like to make crafts in my free time and play board games.
 
 <!---
 AngelaLiang404/AngelaLiang404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
